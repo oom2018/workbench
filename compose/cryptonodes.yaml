@@ -6,7 +6,8 @@ services:
     restart: always
     command: |
       --syncmode=full
-      --rinkeby
+      --dev
+      --dev.period 5
       --rpc
       --rpcaddr=0.0.0.0
       --rpcport=8545
