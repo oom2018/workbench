@@ -22,7 +22,7 @@ services:
       - "30303"
     labels:
       traefik.enable: true
-      traefik.frontend.rule: 'Host: eth.x.xlife.top'
+      traefik.frontend.rule: 'Host: e.x.xlife.top'
       traefik.port: 8545
 
   bitcoind:

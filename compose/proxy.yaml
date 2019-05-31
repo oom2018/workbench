@@ -17,7 +17,7 @@ services:
           - auth.x.xlife.top
           - ws.ranger.x.xlife.top
           - pma.x.xlife.top
-          - eth.x.xlife.top
+          - e.x.xlife.top
           - monitor.x.xlife.top
     labels:
       traefik.enable: true

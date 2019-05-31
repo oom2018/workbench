@@ -65,7 +65,7 @@ You should add those hosts to your `/etc/hosts` file:
 0.0.0.0 monitor.x.xlife.top
 
 0.0.0.0 btc.x.xlife.top
-0.0.0.0 eth.x.xlife.top
+0.0.0.0 e.x.xlife.top
 
 0.0.0.0 mail.x.xlife.top
 ```
