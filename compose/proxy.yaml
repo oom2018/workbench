@@ -13,13 +13,13 @@ services:
     networks:
       default:
         aliases:
-          - api.wb.local
-          - auth.wb.local
-          - ws.ranger.wb.local
-          - pma.wb.local
-          - eth.wb.local
-          - monitor.wb.local
+          - api.x.xlife.top
+          - auth.x.xlife.top
+          - ws.ranger.x.xlife.top
+          - pma.x.xlife.top
+          - eth.x.xlife.top
+          - monitor.x.xlife.top
     labels:
       traefik.enable: true
-      traefik.frontend.rule: 'Host: monitor.wb.local'
+      traefik.frontend.rule: 'Host: monitor.x.xlife.top'
       traefik.port: 8080

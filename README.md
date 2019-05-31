@@ -56,18 +56,18 @@ make run
 You should add those hosts to your `/etc/hosts` file:
 
 ```
-0.0.0.0 api.wb.local
-0.0.0.0 auth.wb.local
+0.0.0.0 api.x.xlife.top
+0.0.0.0 auth.x.xlife.top
 
-0.0.0.0 ws.ranger.wb.local
+0.0.0.0 ws.ranger.x.xlife.top
 
-0.0.0.0 pma.wb.local
-0.0.0.0 monitor.wb.local
+0.0.0.0 pma.x.xlife.top
+0.0.0.0 monitor.x.xlife.top
 
-0.0.0.0 btc.wb.local
-0.0.0.0 eth.wb.local
+0.0.0.0 btc.x.xlife.top
+0.0.0.0 eth.x.xlife.top
 
-0.0.0.0 mail.wb.local
+0.0.0.0 mail.x.xlife.top
 ```
 
 Now you have peatio up and running.

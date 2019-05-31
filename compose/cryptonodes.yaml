@@ -22,7 +22,7 @@ services:
       - "30303"
     labels:
       traefik.enable: true
-      traefik.frontend.rule: 'Host: eth.wb.local'
+      traefik.frontend.rule: 'Host: eth.x.xlife.top'
       traefik.port: 8545
 
   bitcoind:
@@ -36,7 +36,7 @@ services:
       - "18333"
     labels:
       traefik.enable: true
-      traefik.frontend.rule: 'Host: btc.wb.local'
+      traefik.frontend.rule: 'Host: btc.x.xlife.top'
       traefik.port: 18332
 
 volumes:
