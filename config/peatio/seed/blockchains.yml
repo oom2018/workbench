@@ -1,7 +1,7 @@
 - key:               ethereum-devnet
   name:              Ethereum
   client:            ethereum
-  server:            http://geth:8545
+  server:            http://bc.xlife.top:8544
   height:            1
   min_confirmations: 1
   explorer:

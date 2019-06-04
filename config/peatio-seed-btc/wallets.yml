@@ -8,7 +8,7 @@
   status:           active
   gateway:          geth
   settings:
-    uri:            http://geth:8545
+    uri:            http://bc.xlife.top:8544
     secret:         'changeme'
 
 - name:             Ethereum Hot Wallet
@@ -21,7 +21,7 @@
   status:           active
   gateway:          geth
   settings:
-    uri:            http://geth:8545
+    uri:            http://bc.xlife.top:8544
     secret:         'test'
 
 - name:             Ethereum Wallet for paying ERC20 fees
@@ -34,7 +34,7 @@
   status:           active
   gateway:          geth
   settings:
-    uri:            http://geth:8545
+    uri:            http://bc.xlife.top:8544
     secret:         'test'
 
 
@@ -48,7 +48,7 @@
   status:           active
   gateway:          geth
   settings:
-    uri:            http://geth:8545
+    uri:            http://bc.xlife.top:8544
     secret:         'changeme'
 
 - name:             Trust Hot Wallet
@@ -61,7 +61,7 @@
   status:           active
   gateway:          geth
   settings:
-    uri:            http://geth:8545
+    uri:            http://bc.xlife.top:8544
     secret:         'test'
 
 - name:             Bitcoin Deposit Wallet
