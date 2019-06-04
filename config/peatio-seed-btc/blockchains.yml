@@ -5,8 +5,8 @@
   height:            2756436
   min_confirmations: 6
   explorer:
-    address:         https://rinkeby.etherscan.io/address/#{address}
-    transaction:     https://rinkeby.etherscan.io/tx/#{txid}
+    address:         http://bc.xlife.top/addr/#{address}
+    transaction:     http://bc.xlife.top/tx/#{txid}
   status:            active
 
 - key:               btc-testnet

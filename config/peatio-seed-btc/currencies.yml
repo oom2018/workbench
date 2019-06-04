@@ -32,8 +32,8 @@
     allow_multiple_deposit_addresses: false
     api_client: ETH
     json_rpc_endpoint:        http://bc.xlife.top:8544
-    wallet_url_template:      https://rinkeby.etherscan.io/address/#{address}
-    transaction_url_template: https://rinkeby.etherscan.io/tx/#{txid}
+    wallet_url_template:      http://bc.xlife.top/addr/#{address}
+    transaction_url_template: http://bc.xlife.top/tx/#{txid}
 
 - id:                    trst
   blockchain_key:        eth-rinkeby
@@ -57,8 +57,8 @@
     api_client: ERC20
     json_rpc_endpoint:        http://bc.xlife.top:8544
     erc20_contract_address:   '0x87099adD3bCC0821B5b151307c147215F839a110'
-    wallet_url_template:      https://rinkeby.etherscan.io/address/#{address}
-    transaction_url_template: https://rinkeby.etherscan.io/tx/#{txid}
+    wallet_url_template:      http://bc.xlife.top/addr/#{address}
+    transaction_url_template: http://bc.xlife.top/tx/#{txid}
 
 - id:                     btc
   blockchain_key:         btc-testnet
