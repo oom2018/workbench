@@ -12,7 +12,7 @@
   withdraw_fee:          0
 
 - id:                    eth
-  blockchain_key:        ethereum
+  blockchain_key:        ethereum-devnet
   symbol:                'Ξ'
   type:                  coin
   precision:             8

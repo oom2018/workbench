@@ -1,4 +1,4 @@
-- key:               ethereum
+- key:               ethereum-devnet
   name:              Ethereum
   client:            ethereum
   server:            http://geth:8545

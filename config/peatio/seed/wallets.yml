@@ -1,5 +1,5 @@
 - name:             Ethereum Deposit Wallet
-  blockchain_key:   ethereum
+  blockchain_key:   ethereum-devnet
   currency_id:      eth
   address:          '0x2b9fBC10EbAeEc28a8Fc10069C0BC29E45eBEB9C'
   kind:             deposit
@@ -12,7 +12,7 @@
     secret:         'changeme'
 
 - name:             Ethereum Hot Wallet
-  blockchain_key:   eth-rinkeby
+  blockchain_key:   ethereum-devnet
   currency_id:      eth
   address:          '0x0f493226a8a98363e9a85e6b8eca468a18cc6fbb'
   kind:             hot
@@ -25,7 +25,7 @@
     secret:         'test'
 
 - name:             Ethereum Wallet for paying ERC20 fees
-  blockchain_key:   eth-rinkeby
+  blockchain_key:   ethereum-devnet
   currency_id:      eth
   address:          '0x0f493226a8a98363e9a85e6b8eca468a18cc6fbb'
   kind:             fee
